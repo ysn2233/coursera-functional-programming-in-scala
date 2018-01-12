@@ -4,7 +4,7 @@
 
 ***
 
-It is a  Coursera MOOC given by Martin Odersky(Inventor of Scala) in ?cole Polytechnique F¨¦d¨¦rale de Lausanne
+It is a  Coursera MOOC given by Martin Odersky(Inventor of Scala) in École Polytechnique Fédérale de Lausanne
 
 #### About the Course
 
